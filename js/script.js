@@ -1,7 +1,7 @@
 const overview = document.querySelector(".overview");
 const username = "gabrielapal";
 const repoList = document.querySelector(".repo-list");
-const repos = document.querySelector(".repos");
+const allReposContainer = document.querySelector(".repos");
 const repoData = document.querySelector(".repo-data");
 
 const gitUserInfo = async function () {
