@@ -1,6 +1,6 @@
 # Github Repo Gallery
 
-A Gallery of all my public GitHub Repos using GitHub API, with dynamic search. 
+A Gallery of all my public GitHub Repos using GitHub API, with dynamic search 🔎
 
 ### Features
 
